@@ -1,0 +1,69 @@
+@import "tailwindcss";
+@import "@nuxt/ui";
+
+@theme static {
+  --font-sans: 'Public Sans', sans-serif;
+
+/* Primary */
+--color-koala-50: #f4f9f9;
+--color-koala-100: #d9eeec;
+--color-koala-200: #b2ddd9;
+--color-koala-300: #84c4c1;
+--color-koala-400: #5ba6a5;
+--color-koala-500: #3b7f7f;
+--color-koala-600: #326d6f;
+--color-koala-700: #2b595a;
+--color-koala-800: #264749;
+--color-koala-900: #233d3e;
+--color-koala-950: #102123;
+
+/* Secondary */
+--color-sunset-50: #fefaec;
+--color-sunset-100: #fbf0ca;
+--color-sunset-200: #f7e190;
+--color-sunset-300: #f2c94c;
+--color-sunset-400: #f0b82f;
+--color-sunset-500: #e99817;
+--color-sunset-600: #ce7411;
+--color-sunset-700: #ab5212;
+--color-sunset-800: #8b4115;
+--color-sunset-900: #723615;
+--color-sunset-950: #421a06;
+
+/* Neutral */
+--color-wild-sand-50: #f5f5f4;
+--color-wild-sand-100: #f0f0ee;
+--color-wild-sand-200: #ddddda;
+--color-wild-sand-300: #c0bfb9;
+--color-wild-sand-400: #9d9c93;
+--color-wild-sand-500: #818176;
+--color-wild-sand-600: #696860;
+--color-wild-sand-700: #56564e;
+--color-wild-sand-800: #494943;
+--color-wild-sand-900: #3f3e3b;
+--color-wild-sand-950: #2a2a27;
+
+/* accent */
+
+--color-sunglo-50: #fdf3f3;
+--color-sunglo-100: #fbe9e8;
+--color-sunglo-200: #f7d4d5;
+--color-sunglo-300: #f1b0b2;
+--color-sunglo-400: #e88489;
+--color-sunglo-500: #e06c75;
+--color-sunglo-600: #c7374a;
+--color-sunglo-700: #a7293c;
+--color-sunglo-800: #8c2537;
+--color-sunglo-900: #782335;
+--color-sunglo-950: #420f18;
+
+}
+
+:root {
+  --ui-primary: var(--ui-color-primary-500);
+  --ui-secondary: var(--ui-color-secondary-500);
+  --ui-success: var(--ui-color-success-500);
+  --ui-info: var(--ui-color-info-500);
+  --ui-warning: var(--ui-color-warning-500);
+  --ui-error: var(--ui-color-error-500);
+}
