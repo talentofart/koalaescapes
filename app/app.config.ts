@@ -5,7 +5,7 @@ export default defineAppConfig({
       primary: 'koala',
       secondary: 'sunset',
       accent: 'sunglo',
-      neutral: 'wild-stone',
+      neutral: 'wild-sand',
     },
     button: {
       defaultVariants: {
