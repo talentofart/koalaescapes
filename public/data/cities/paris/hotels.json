@@ -1,0 +1,98 @@
+[
+  {
+    "slug": "eiffel-grand-hotel",
+    "name": "Eiffel Grand Hotel",
+    "city": "Paris",
+    "description": "Wake up to views of the Eiffel Tower in this elegant 4-star hotel. Romantic, central, and full of Parisian charm.",
+    "image": "https://cdn.koalaescapes.com/hotels/paris/eiffel-grand.jpg",
+    "affiliateUrl": "https://www.booking.com/hotel/fr/eiffel-grand.html?aid=YOUR_AID"
+  },
+  {
+    "slug": "le-marais-boutique",
+    "name": "Le Marais Boutique",
+    "city": "Paris",
+    "description": "Hidden in the artsy Le Marais district, this hotel mixes old-world elegance with a modern twist. Très chic and very walkable.",
+    "image": "https://cdn.koalaescapes.com/hotels/paris/le-marais.jpg",
+    "affiliateUrl": "https://www.booking.com/hotel/fr/le-marais-boutique.html?aid=YOUR_AID"
+  },
+  {
+    "slug": "montmartre-nest",
+    "name": "Montmartre Nest",
+    "city": "Paris",
+    "description": "Cozy and creative hideaway near Sacré-Cœur. Perfect for travelers who want cafés, cobblestones, and inspiration.",
+    "image": "https://cdn.koalaescapes.com/hotels/paris/montmartre-nest.jpg",
+    "affiliateUrl": "https://www.booking.com/hotel/fr/montmartre-nest.html?aid=YOUR_AID"
+  },
+  {
+    "slug": "seine-view-suites",
+    "name": "Seine View Suites",
+    "city": "Paris",
+    "description": "Modern comfort meets riverfront elegance. Enjoy life by the Seine in style, just a stroll from Notre-Dame.",
+    "image": "https://cdn.koalaescapes.com/hotels/paris/seine-view.jpg",
+    "affiliateUrl": "https://www.booking.com/hotel/fr/seine-view.html?aid=YOUR_AID"
+  },
+  {
+    "slug": "latin-quarter-hotel",
+    "name": "Latin Quarter Hotel",
+    "city": "Paris",
+    "description": "A friendly hotel in the heart of Paris’s academic and bohemian soul. Steps from bookshops, cafés, and charm.",
+    "image": "https://cdn.koalaescapes.com/hotels/paris/latin-quarter.jpg",
+    "affiliateUrl": "https://www.booking.com/hotel/fr/latin-quarter.html?aid=YOUR_AID"
+  },
+  {
+    "slug": "louvre-luxe-stay",
+    "name": "Louvre Luxe Stay",
+    "city": "Paris",
+    "description": "Sleep next to masterpieces. This hotel is ideal for museum lovers and shoppers looking for a five-star spot.",
+    "image": "https://cdn.koalaescapes.com/hotels/paris/louvre-luxe.jpg",
+    "affiliateUrl": "https://www.booking.com/hotel/fr/louvre-luxe.html?aid=YOUR_AID"
+  },
+  {
+    "slug": "opera-garnier-hotel",
+    "name": "Opéra Garnier Hotel",
+    "city": "Paris",
+    "description": "A grand and glamorous address near Paris’s famous opera house. Great for elegant nights and shopping days.",
+    "image": "https://cdn.koalaescapes.com/hotels/paris/opera-garnier.jpg",
+    "affiliateUrl": "https://www.booking.com/hotel/fr/opera-garnier.html?aid=YOUR_AID"
+  },
+  {
+    "slug": "champs-elysees-retreat",
+    "name": "Champs-Élysées Retreat",
+    "city": "Paris",
+    "description": "Tucked behind the world’s most famous avenue, this tranquil stay gives you shopping and silence in one.",
+    "image": "https://cdn.koalaescapes.com/hotels/paris/champs-elysees.jpg",
+    "affiliateUrl": "https://www.booking.com/hotel/fr/champs-elysees.html?aid=YOUR_AID"
+  },
+  {
+    "slug": "bastille-city-lodge",
+    "name": "Bastille City Lodge",
+    "city": "Paris",
+    "description": "Affordable and stylish. A youthful stay surrounded by nightlife, culture, and classic brasseries.",
+    "image": "https://cdn.koalaescapes.com/hotels/paris/bastille-lodge.jpg",
+    "affiliateUrl": "https://www.booking.com/hotel/fr/bastille-lodge.html?aid=YOUR_AID"
+  },
+  {
+    "slug": "left-bank-haven",
+    "name": "Left Bank Haven",
+    "city": "Paris",
+    "description": "Literary vibes, vintage cafés, and riverside romance – this hotel wraps up the classic Paris experience.",
+    "image": "https://cdn.koalaescapes.com/hotels/paris/left-bank.jpg",
+    "affiliateUrl": "https://www.booking.com/hotel/fr/left-bank.html?aid=YOUR_AID"
+  },
+  {
+    "slug": "paris-loft-hotel",
+    "name": "Paris Loft Hotel",
+    "city": "Paris",
+    "description": "Bright, bold, and beautifully urban. A creative space for digital nomads and modern explorers.",
+    "image": "https://cdn.koalaescapes.com/hotels/paris/paris-loft.jpg",
+    "affiliateUrl": "https://www.booking.com/hotel/fr/paris-loft.html?aid=YOUR_AID"
+  },
+  {
+    "slug": "gare-du-nord-hub",
+    "name": "Gare du Nord Hub",
+    "city": "Paris",
+    "description": "Fast access to trains, metros, and airport connections. Perfect for transit travelers and quick city stays.",
+    "image": "https://cdn.koalaescapes.com/hotels/paris/gare-du-nord.jpg",
+    "affiliateUrl": "https://www.booking.com/hotel/fr/gare-du-nord.html?aid=YOUR_AID"
+  }
+]

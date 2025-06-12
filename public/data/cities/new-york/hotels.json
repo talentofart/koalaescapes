@@ -1,0 +1,98 @@
+[
+  {
+    "slug": "central-park-residence",
+    "name": "Central Park Residence",
+    "city": "New York",
+    "description": "Steps from Central Park, this peaceful stay blends greenery with Manhattan luxury. Great for joggers and romantics.",
+    "image": "https://cdn.koalaescapes.com/hotels/new-york/central-park.jpg",
+    "affiliateUrl": "https://www.booking.com/hotel/us/central-park-residence.html?aid=YOUR_AID"
+  },
+  {
+    "slug": "times-square-hotel",
+    "name": "Times Square Hotel",
+    "city": "New York",
+    "description": "Bright lights, big energy. This hotel places you in the buzzing heart of NYC’s entertainment zone.",
+    "image": "https://cdn.koalaescapes.com/hotels/new-york/times-square.jpg",
+    "affiliateUrl": "https://www.booking.com/hotel/us/times-square-hotel.html?aid=YOUR_AID"
+  },
+  {
+    "slug": "brooklyn-art-house",
+    "name": "Brooklyn Art House",
+    "city": "New York",
+    "description": "Hip, creative, and just a little bit rebellious. A perfect stay for those who want murals, music, and matcha.",
+    "image": "https://cdn.koalaescapes.com/hotels/new-york/brooklyn-art.jpg",
+    "affiliateUrl": "https://www.booking.com/hotel/us/brooklyn-art-house.html?aid=YOUR_AID"
+  },
+  {
+    "slug": "fifth-avenue-suites",
+    "name": "Fifth Avenue Suites",
+    "city": "New York",
+    "description": "Shop ‘til you drop, then relax in modern luxury. These sleek suites are just steps from world-class boutiques.",
+    "image": "https://cdn.koalaescapes.com/hotels/new-york/fifth-avenue.jpg",
+    "affiliateUrl": "https://www.booking.com/hotel/us/fifth-avenue-suites.html?aid=YOUR_AID"
+  },
+  {
+    "slug": "harlem-jazz-lodge",
+    "name": "Harlem Jazz Lodge",
+    "city": "New York",
+    "description": "Stay in NYC’s cultural heart. Vintage charm, live music, and soulful vibes make this a unique pick.",
+    "image": "https://cdn.koalaescapes.com/hotels/new-york/harlem-jazz.jpg",
+    "affiliateUrl": "https://www.booking.com/hotel/us/harlem-jazz-lodge.html?aid=YOUR_AID"
+  },
+  {
+    "slug": "soho-loft-hotel",
+    "name": "SoHo Loft Hotel",
+    "city": "New York",
+    "description": "Industrial chic meets boutique cool in the fashionable SoHo district. Great for designers and Instagrammers.",
+    "image": "https://cdn.koalaescapes.com/hotels/new-york/soho-loft.jpg",
+    "affiliateUrl": "https://www.booking.com/hotel/us/soho-loft-hotel.html?aid=YOUR_AID"
+  },
+  {
+    "slug": "manhattan-luxe",
+    "name": "Manhattan Luxe",
+    "city": "New York",
+    "description": "Pure elegance in the center of the Big Apple. Perfect for luxury travelers, business trips, or weekend indulgence.",
+    "image": "https://cdn.koalaescapes.com/hotels/new-york/manhattan-luxe.jpg",
+    "affiliateUrl": "https://www.booking.com/hotel/us/manhattan-luxe.html?aid=YOUR_AID"
+  },
+  {
+    "slug": "chelsea-garden-hotel",
+    "name": "Chelsea Garden Hotel",
+    "city": "New York",
+    "description": "Modern interiors and leafy rooftop lounges. Close to galleries, markets, and The High Line.",
+    "image": "https://cdn.koalaescapes.com/hotels/new-york/chelsea-garden.jpg",
+    "affiliateUrl": "https://www.booking.com/hotel/us/chelsea-garden.html?aid=YOUR_AID"
+  },
+  {
+    "slug": "greenwich-village-inn",
+    "name": "Greenwich Village Inn",
+    "city": "New York",
+    "description": "Charming, historic, and a little bohemian. Ideal for travelers who like their stay with a side of poetry and jazz.",
+    "image": "https://cdn.koalaescapes.com/hotels/new-york/greenwich-village.jpg",
+    "affiliateUrl": "https://www.booking.com/hotel/us/greenwich-village-inn.html?aid=YOUR_AID"
+  },
+  {
+    "slug": "lower-east-side-vibes",
+    "name": "Lower East Side Vibes",
+    "city": "New York",
+    "description": "Trendy and fun. This hotel puts you near edgy bars, indie shops, and the best late-night eats in town.",
+    "image": "https://cdn.koalaescapes.com/hotels/new-york/lower-east-side.jpg",
+    "affiliateUrl": "https://www.booking.com/hotel/us/lower-east-side-vibes.html?aid=YOUR_AID"
+  },
+  {
+    "slug": "tribeca-hideout",
+    "name": "Tribeca Hideout",
+    "city": "New York",
+    "description": "Quiet luxury in NYC’s film-famous neighborhood. A restful base close to restaurants, parks, and style.",
+    "image": "https://cdn.koalaescapes.com/hotels/new-york/tribeca-hideout.jpg",
+    "affiliateUrl": "https://www.booking.com/hotel/us/tribeca-hideout.html?aid=YOUR_AID"
+  },
+  {
+    "slug": "noho-urban-escape",
+    "name": "NoHo Urban Escape",
+    "city": "New York",
+    "description": "Minimalist design with maximum convenience. Easy access to downtown, uptown, and all points in between.",
+    "image": "https://cdn.koalaescapes.com/hotels/new-york/noho-urban.jpg",
+    "affiliateUrl": "https://www.booking.com/hotel/us/noho-urban-escape.html?aid=YOUR_AID"
+  }
+]

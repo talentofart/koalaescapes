@@ -1,0 +1,83 @@
+[
+  {
+    "name": "Fabel Friet",
+    "slug": "fabel-friet",
+    "story": "Fabel Friet went viral for its ultra-crispy Dutch fries served in poetic paper cones. Every batch is double-fried for that perfect crunch and topped with gooey cheese or special sauces.",
+    "location": "Brouwersgracht 116, Amsterdam",
+    "featuredImage": "/images/cities/amsterdam/food/fabel-friet/featured.jpg",
+    "foodImage": "/images/cities/amsterdam/food/fabel-friet/food.jpg",
+    "tags": ["fries", "viral", "dutch"]
+  },
+  {
+    "name": "Van Wonderen Stroopwafels",
+    "slug": "van-wonderen-stroopwafels",
+    "story": "These giant, gooey stroopwafels are freshly baked and topped with endless variations—classic caramel, Nutella, or even savory cheese and bacon. TikTok loved the caramel pull-handles!",
+    "location": "Spui 21, Amsterdam",
+    "featuredImage": "/images/cities/amsterdam/food/van-wonderen-stroopwafels/featured.jpg",
+    "foodImage": "/images/cities/amsterdam/food/van-wonderen-stroopwafels/food.jpg",
+    "tags": ["stroopwafel", "dessert", "sweet"]
+  },
+  {
+    "name": "Chun Café",
+    "slug": "chun-cafe",
+    "story": "Chun Café burst onto the Amsterdam food scene in 2020, introducing locals to artful matcha lattes and fluffy toast creations. Their second location at Spuistraat 122 features a bright, minimalist interior, and their prawn toast and creamy matcha drinks quickly went viral on TikTok. It’s not a ramen spot—it’s a bakery‑style café spot‑on for afternoon treats!",
+    "location": "Spuistraat 122, Amsterdam",
+    "featuredImage": "/images/cities/amsterdam/food/chun-cafe/featured.jpg",
+    "foodImage": "/images/cities/amsterdam/food/chun-cafe/cover.jpg",
+    "tags": ["matcha", "toast", "viral", "bakery", "cozy"]
+  },
+  {
+    "name": "Ramen-Ya",
+    "slug": "ramen-ya",
+    "story": "Ramen-Ya went viral for its spicy miso ramen with a soft‑boiled egg and chashu slices that cling just perfectly. For ramen lovers on TikTok, it's a must-visit pit stop.",
+    "location": "Kadijksplein 14, Amsterdam",
+    "featuredImage": "/images/cities/amsterdam/food/ramen-ya/featured.jpg",
+    "foodImage": "/images/cities/amsterdam/food/ramen-ya/cover.jpg",
+    "tags": ["ramen", "spicy", "viral"]
+  },
+  {
+    "name": "Stach – Pompoen Pannenkoek",
+    "slug": "stach-pumpkin-pancake",
+    "story": "Stach’s pumpkin pancakes went viral this autumn—stacked high, drizzled with maple syrup, and dusted with cinnamon. Foodies couldn’t resist the pumpkin-spiced goodness.",
+    "location": "Albert Cuypstraat 105, Amsterdam",
+    "featuredImage": "/images/cities/amsterdam/food/stach-shop.jpg",
+    "foodImage": "/images/cities/amsterdam/food/stach-pancake.jpg",
+    "tags": ["pancake", "seasonal", "trending"]
+  },
+  {
+    "name": "Bla Bla Ramen",
+    "slug": "bla-bla-ramen",
+    "story": "Bla Bla Ramen became a TikTok favorite for its cloud‑foam broth and vivid neon decor. The ‘cloud ramen’ craze is real, and this spot nails it.",
+    "location": "Ferdinand Bolstraat 1, Amsterdam",
+    "featuredImage": "/images/cities/amsterdam/food/blabla-shop.jpg",
+    "foodImage": "/images/cities/amsterdam/food/blabla-ramen.jpg",
+    "tags": ["ramen", "trendy", "aesthetic"]
+  },
+  {
+    "name": "Bakery ‘t Stoepje – Banketstaaf",
+    "slug": "stoepje-banketstaaf",
+    "story": "TikTok users fell in love with their holiday special Banketstaaf—a flaky puff pastry filled with almond paste, drizzled with sugar and often enjoyed warm during winter months.",
+    "location": "Nieuwezijds Voorburgwal 182, Amsterdam",
+    "featuredImage": "/images/cities/amsterdam/food/stoepje-shop.jpg",
+    "foodImage": "/images/cities/amsterdam/food/stoepje-banketstaaf.jpg",
+    "tags": ["bakery", "pastry", "seasonal"]
+  },
+  {
+    "name": "Poffertjes Piet",
+    "slug": "poffertjes",
+    "story": "Poffertjes Piet’s mini, pillowy poffertjes are a viral hit thanks to their perfect bite-size fluffiness and traditional Dutch butter and sugar topping.",
+    "location": "Damstraat 57, Amsterdam",
+    "featuredImage": "/images/cities/amsterdam/food/poffertjes-shop.jpg",
+    "foodImage": "/images/cities/amsterdam/food/poffertjes.jpg",
+    "tags": ["pancake", "dutch", "sweet"]
+  },
+  {
+    "name": "De Pijp Fish Bar",
+    "slug": "depijp-fish",
+    "story": "This seafood‑centric takeaway went viral for its fried fish platters served in newspaper cones. Laid‑back, authentic, and perfect for a canal‑side snack.",
+    "location": "Van Woustraat 58, Amsterdam",
+    "featuredImage": "/images/cities/amsterdam/food/fishbar-shop.jpg",
+    "foodImage": "/images/cities/amsterdam/food/fishbar-fish.jpg",
+    "tags": ["seafood", "casual", "local"]
+  }
+]

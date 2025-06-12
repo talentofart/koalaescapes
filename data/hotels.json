@@ -1,0 +1,18 @@
+[
+  {
+    "slug": "hotel-eiffel-paris",
+    "name": "Hotel Eiffel Paris",
+    "city": "Paris",
+    "description": "Elegant hotel near Eiffel Tower with panoramic views.",
+    "image": "/images/paris/eiffel.jpg",
+    "affiliateUrl": "https://www.booking.com/hotel/fr/eiffel.en.html?aid=YOUR_AID"
+  },
+  {
+    "slug": "ritz-tokyo",
+    "name": "The Ritz-Carlton Tokyo",
+    "city": "Tokyo",
+    "description": "Luxury hotel with skyline views of Tokyo Tower and Mount Fuji.",
+    "image": "/images/tokyo/ritz.jpg",
+    "affiliateUrl": "https://www.booking.com/hotel/jp/ritz.en.html?aid=YOUR_AID"
+  }
+]

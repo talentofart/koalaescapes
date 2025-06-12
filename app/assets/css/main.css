@@ -2,7 +2,9 @@
 @import "@nuxt/ui";
 
 @theme static {
-  --font-sans: 'Public Sans', sans-serif;
+  --font-sans: "avenir-next-lt-pro", sans-serif;
+  --font-avenir-next: "avenir-next-lt-pro", sans-serif;
+  --font-lust-text: "lust-text", serif;
 
 /* Primary */
 --color-koala-50: #f4f9f9;

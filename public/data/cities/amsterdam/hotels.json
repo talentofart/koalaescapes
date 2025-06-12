@@ -1,0 +1,98 @@
+[
+  {
+    "slug": "amstel-grand-hotel",
+    "name": "Amstel Grand Hotel",
+    "city": "Amsterdam",
+    "description": "Charming 5-star hotel along the Amstel River, blending Dutch heritage with modern comfort. Ideal for luxury getaways in the heart of the city.",
+    "image": "https://cdn.koalaescapes.com/hotels/amsterdam/amstel-grand.jpg",
+    "affiliateUrl": "https://www.booking.com/hotel/nl/amstel-grand.html?aid=YOUR_AID"
+  },
+  {
+    "slug": "canal-palace",
+    "name": "Canal Palace",
+    "city": "Amsterdam",
+    "description": "Wake up to dreamy canal views at this boutique hotel in Jordaan. The perfect stay for romantic weekends or cozy solo trips in Amsterdam.",
+    "image": "https://cdn.koalaescapes.com/hotels/amsterdam/canal-palace.jpg",
+    "affiliateUrl": "https://www.booking.com/hotel/nl/canal-palace.html?aid=YOUR_AID"
+  },
+  {
+    "slug": "muse-hotel-amsterdam",
+    "name": "Muse Hotel Amsterdam",
+    "city": "Amsterdam",
+    "description": "Steps from Museumplein, this artsy hotel blends modern style and walkable location. A great pick for culture lovers and art explorers.",
+    "image": "https://cdn.koalaescapes.com/hotels/amsterdam/muse-hotel.jpg",
+    "affiliateUrl": "https://www.booking.com/hotel/nl/muse.html?aid=YOUR_AID"
+  },
+  {
+    "slug": "vondel-retreat",
+    "name": "Vondel Retreat",
+    "city": "Amsterdam",
+    "description": "Just minutes from Vondelpark, this eco-conscious hotel offers calm vibes and a garden courtyard. Great for mindful travelers.",
+    "image": "https://cdn.koalaescapes.com/hotels/amsterdam/vondel-retreat.jpg",
+    "affiliateUrl": "https://www.booking.com/hotel/nl/vondel-retreat.html?aid=YOUR_AID"
+  },
+  {
+    "slug": "harbor-view-inn",
+    "name": "Harbor View Inn",
+    "city": "Amsterdam",
+    "description": "Modern hotel with panoramic harbor views, near the NDSM art scene. Ideal for creatives and design fans visiting Amsterdam.",
+    "image": "https://cdn.koalaescapes.com/hotels/amsterdam/harbor-view.jpg",
+    "affiliateUrl": "https://www.booking.com/hotel/nl/harbor-view-inn.html?aid=YOUR_AID"
+  },
+  {
+    "slug": "de-pijp-design-hotel",
+    "name": "De Pijp Design Hotel",
+    "city": "Amsterdam",
+    "description": "A stylish stay in De Pijp – the trendiest district in Amsterdam. Surrounded by cafes, markets, and indie shops.",
+    "image": "https://cdn.koalaescapes.com/hotels/amsterdam/de-pijp.jpg",
+    "affiliateUrl": "https://www.booking.com/hotel/nl/de-pijp.html?aid=YOUR_AID"
+  },
+  {
+    "slug": "golden-gables",
+    "name": "Golden Gables",
+    "city": "Amsterdam",
+    "description": "Historic Dutch gables, boutique interiors. Stay where charm meets convenience near the Nine Streets shopping area.",
+    "image": "https://cdn.koalaescapes.com/hotels/amsterdam/golden-gables.jpg",
+    "affiliateUrl": "https://www.booking.com/hotel/nl/golden-gables.html?aid=YOUR_AID"
+  },
+  {
+    "slug": "jordaan-hideaway",
+    "name": "Jordaan Hideaway",
+    "city": "Amsterdam",
+    "description": "A peaceful escape in one of Amsterdam’s coziest neighborhoods. Great for slow mornings and exploring on foot.",
+    "image": "https://cdn.koalaescapes.com/hotels/amsterdam/jordaan-hideaway.jpg",
+    "affiliateUrl": "https://www.booking.com/hotel/nl/jordaan-hideaway.html?aid=YOUR_AID"
+  },
+  {
+    "slug": "dockside-loft",
+    "name": "Dockside Loft",
+    "city": "Amsterdam",
+    "description": "Industrial loft-style hotel close to ferry lines and creative hubs. Popular with digital nomads and minimalist travelers.",
+    "image": "https://cdn.koalaescapes.com/hotels/amsterdam/dockside-loft.jpg",
+    "affiliateUrl": "https://www.booking.com/hotel/nl/dockside-loft.html?aid=YOUR_AID"
+  },
+  {
+    "slug": "blue-house-canal-hotel",
+    "name": "Blue House Canal Hotel",
+    "city": "Amsterdam",
+    "description": "Iconic blue building right on the canal. Quiet, quaint, and made for postcard-perfect memories in Amsterdam.",
+    "image": "https://cdn.koalaescapes.com/hotels/amsterdam/blue-house.jpg",
+    "affiliateUrl": "https://www.booking.com/hotel/nl/blue-house.html?aid=YOUR_AID"
+  },
+  {
+    "slug": "urban-tulip-hotel",
+    "name": "Urban Tulip Hotel",
+    "city": "Amsterdam",
+    "description": "Modern floral-themed hotel near the famous flower market. Fresh, vibrant, and full of local flair.",
+    "image": "https://cdn.koalaescapes.com/hotels/amsterdam/urban-tulip.jpg",
+    "affiliateUrl": "https://www.booking.com/hotel/nl/urban-tulip.html?aid=YOUR_AID"
+  },
+  {
+    "slug": "bicycle-boutique",
+    "name": "Bicycle Boutique",
+    "city": "Amsterdam",
+    "description": "Bike-themed hotel that’s fun, friendly, and perfect for adventurers. Ride in, check in, explore Amsterdam like a local.",
+    "image": "https://cdn.koalaescapes.com/hotels/amsterdam/bicycle-boutique.jpg",
+    "affiliateUrl": "https://www.booking.com/hotel/nl/bicycle-boutique.html?aid=YOUR_AID"
+  }
+]

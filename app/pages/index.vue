@@ -6,9 +6,12 @@
       <p class="mt-5 text-l text-neutral-700">
         Discover great places to stay — from cozy hotels to stunning villas, all around the world.
       </p>
+      <p class="mt-5 text-l text-neutral-700">
+        Coming soon..
+      </p>
     </div>
-    <UButton size="xl" color="primary" to="#" class="font-bold rounded-full text-white">
-      Coming Soon
+    <UButton size="xl" color="primary" to="https://trip.tpk.ro/64BM1X9s" class="font-bold rounded-full text-white">
+      Search Hotels
     </UButton>
     <img src="/images/icon.svg" class="block mx-auto w-18" />
   </UContainer>
