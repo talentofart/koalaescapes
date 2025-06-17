@@ -9,8 +9,8 @@ onMounted(() => {
   const script = document.createElement('script')
   script.async = true
   script.src = isMobile
-    ? 'https://c121.travelpayouts.com/content?trs=128430&shmarker=229948&lang=www&layout=S4279&powered_by=true&promo_id=4038'
-    : 'https://c121.travelpayouts.com/content?trs=128430&shmarker=229948&lang=www&layout=S10391&powered_by=true&promo_id=4038'
+    ? 'https://tpwdg.com/content?trs=423217&shmarker=637638&lang=www&layout=S4279&powered_by=true&campaign_id=121&promo_id=4038'
+    : 'https://tpwdg.com/content?trs=423217&shmarker=637638&lang=www&layout=S10391&powered_by=true&campaign_id=121&promo_id=4038'
 
   widgetRef.value.appendChild(script)
 })
@@ -28,7 +28,7 @@ onMounted(() => {
         Coming soon..
       </p>
     </div>
-    <UButton size="xl" color="primary" to="https://trip.tpk.ro/64BM1X9s" target="_blank" class="font-bold rounded-full text-white">
+    <UButton size="xl" color="primary" to="https://trip.tpk.ro/EOZq2OIa" target="_blank" class="font-bold rounded-full text-white">
       Search Hotels
     </UButton>
     <img src="/images/icon.svg" class="block mx-auto w-18" />
